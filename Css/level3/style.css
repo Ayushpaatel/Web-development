@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+#box2{
+    height: 50%;
+    width: 50%;
+    background-color: aliceblue;
+} */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+/* #box1{
+    position: static;
+} */
+#box1{
+    background-image: url("./neom-g9wCI64k2yw-unsplash.jpg");
+    background-size: contain;
+    
+}
